@@ -1,16 +1,14 @@
-## Hi there 👋
+# Matéo GUIDI  
+[![Linkedin Badge](https://img.shields.io/badge/-mateoguidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateoguidi/)](https://www.linkedin.com/in/mateoguidi/) 
+[![Gmail Badge](https://img.shields.io/badge/-mateo.guidi5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateo.guidi5@gmail.com)](mailto:mateo.guidi5@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-mateoguidi.github.io/portfolio-orange?style=flat-square&logo=html5&logoColor=white&link=https://mateoguidi.github.io/portfolio)](https://mateoguidi.github.io/portfolio)
 
-<!--
-**MateoGuidi/mateoguidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm a Junior Developer 👨‍💻 who is passionate about coding video games. I am also passionate about music composition and video editing.
 
-Here are some ideas to get you started:
+- :school: I am a `Junior` at [University Bachelor's Degree in Technology](https://www.iut.u-bordeaux.fr/info/) at [Bordeaux University](https://www.u-bordeaux.fr/).
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently open for a new `half-time job`, this is [my CV](https://mateoguidi.github.io/portfolio).
+- :boom: You can visit [my portfolio](https://mateoguidi.github.io/portfolio).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last Edited on: 12/2024
