@@ -8,7 +8,7 @@ I'm a Junior Developer 👨‍💻 who is passionate about coding video games. I
 
 - :school: I am a `Junior` at [University Bachelor's Degree in Technology](https://www.iut.u-bordeaux.fr/info/) at [Bordeaux University](https://www.u-bordeaux.fr/).
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for a new `half-time job`, this is [my CV](https://mateoguidi.github.io/portfolio).
-- :boom: You can visit [my portfolio](https://mateoguidi.github.io/portfolio).
+- :thinking: I’m currently open for a new `half-time job`, this is [my CV](https://github.com/MateoGuidi/mateoguidi.github.io/blob/main/assets/MateoGUIDI-CV-EN.pdf).
+- :boom: You can visit [my portfolio](https://mateoguidi.github.io/).
 
-Last Edited on: 12/2024
+Last Edited on: 02/2025
