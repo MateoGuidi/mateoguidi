@@ -1,5 +1,7 @@
 # Matéo GUIDI  
-[![Portfolio](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://mateoguidi.fr)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoguidi/) [![Email (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateo.guidi5@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://mateoguidi.fr)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoguidi/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateo.guidi5@gmail.com)
 
 ## Hi 👋, 
 I'm a Junior Developer 👨‍💻 who is passionate about coding video games. I am also passionate about music composition and video editing.
