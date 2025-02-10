@@ -1,14 +1,12 @@
 # Matéo GUIDI  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateoguidi/)](https://www.linkedin.com/in/mateoguidi/) 
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateo.guidi5@gmail.com)](mailto:mateo.guidi5@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=html5&logoColor=white&link=https://mateoguidi.github.io/portfolio)](https://mateoguidi.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://mateoguidi.fr)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoguidi/) [![Email (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateo.guidi5@gmail.com) 
 
 ## Hi 👋, 
 I'm a Junior Developer 👨‍💻 who is passionate about coding video games. I am also passionate about music composition and video editing.
 
 - :school: I am a `Junior` at [University Bachelor's Degree in Technology](https://www.iut.u-bordeaux.fr/info/) at [Bordeaux University](https://www.u-bordeaux.fr/).
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for a new `half-time job`, this is [my CV](https://github.com/MateoGuidi/mateoguidi.github.io/blob/main/assets/MateoGUIDI-CV-EN.pdf).
-- :boom: You can visit [my portfolio](https://mateoguidi.github.io/).
+- :thinking: I’m currently open for a new `half-time job`, this is [my CV](https://mateoguidi.fr/assets/MateoGUIDI-CV-EN.pdf).
+- :boom: You can visit [my portfolio](https://mateoguidi.fr/).
 
 Last Edited on: 02/2025
