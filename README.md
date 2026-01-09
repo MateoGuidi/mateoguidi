@@ -1,4 +1,4 @@
-# Matéo GUIDI  
+# Mateo GUIDI  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mateo.guidi5@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://mateoguidi.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateoguidi/)
 
 
@@ -10,4 +10,4 @@ I'm a Junior Developer 👨‍💻 who is passionate about coding video games. I
 - :thinking: If you're curious about my profile, there is [my CV](https://cv.mateoguidi.fr).
 - :boom: You can visit [my portfolio](https://mateoguidi.fr/).
 
-Last Edited on: 12/2025
+Last Edited on: 01/2026
