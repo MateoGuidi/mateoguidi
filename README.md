@@ -7,7 +7,7 @@ I'm a Junior Developer 👨‍💻 who is passionate about coding video games & 
 
 - :school: I am a `Junior` at [University Bachelor's Degree in Technology](https://www.iut.u-bordeaux.fr/info/) at [Bordeaux University](https://www.u-bordeaux.fr/).
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :thinking: If you're curious about my profile, there is [my CV](https://cv.mateoguidi.fr).
+- :thinking: If you're curious about my profile, there is [my CV](https://mateoguidi.fr/cv).
 - :boom: You can also visit [my portfolio](https://mateoguidi.fr/).
 
 Last Edited on: 02/2026
